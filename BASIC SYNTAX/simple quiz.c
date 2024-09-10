@@ -21,3 +21,27 @@ int main() {
 
     return 0;
 }
+
+// calculate the area of a circle and modify the same program to 
+// calculate the volume of a cylender given its radius and heights
+// practice sets  2...
+// the area of a circle is 
+
+//# include<stdio.h>
+
+// int main() {
+//     int r=6; // sapose that radius is 6
+//     printf("the area of circle is with radius %d is %f",r,3.14*r*r);
+//     return 0;
+// }
+
+// volume of a cylender is pi r^2 h
+
+# include<stdio.h>
+
+int main() {
+    int r=6; // sapose that radius is 6
+    int h=10; // sapose that height is 5
+    printf("the volume of cylender is with radius %d and height %d is %f",r,h,3.14*r*r*h);
+    return 0;
+}
