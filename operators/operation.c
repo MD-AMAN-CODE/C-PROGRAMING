@@ -12,10 +12,10 @@ int main() {
 
     //LETS GO.
     printf("here the operations..\n");
-    printf("%d + %d  = %d\n",first,second,first+second);
-    printf("%d - %d  = %d\n",first,second,first-second);
-    printf("%d / %d  = %d\n",first,second,first/second);
-    printf("%d * %d  = %d\n",first,second,first*second);
-    printf("%d % %d  = %d\n",first,second,first%second);
+    printf("%d + %d  = %d\n",first,second,first + second);
+    printf("%d - %d  = %d\n",first,second,first - second);
+    printf("%d / %d  = %d\n",first,second,first / second);
+    printf("%d * %d  = %d\n",first,second,first * second);
+    printf("%d % %d  = %d\n",first,second,first % second);
     return 0;
 }
