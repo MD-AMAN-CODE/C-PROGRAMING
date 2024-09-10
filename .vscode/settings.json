@@ -59,6 +59,10 @@
   "files.associations": {
     "HELLO .C": "cpp",
     "SCAN.C": "cpp",
-    "SCAN .C": "cpp"
+    "SCAN .C": "cpp",
+    "P && S.C": "cpp",
+    "P && S .C": "cpp",
+    "P and S.C": "cpp",
+    "P and S .C": "cpp"
   }
 }
